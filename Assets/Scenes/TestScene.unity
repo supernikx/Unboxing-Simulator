@@ -851,6 +851,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   resetSceneKey: 13
+  quitKey: 27
 --- !u!1 &1509238122
 GameObject:
   m_ObjectHideFlags: 0
@@ -1173,7 +1174,7 @@ PrefabInstance:
     - target: {fileID: 895138338946084589, guid: 5eab7bc222735d4429e6c9888cb0f756,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: -0.14
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 895138338946084589, guid: 5eab7bc222735d4429e6c9888cb0f756,
         type: 3}

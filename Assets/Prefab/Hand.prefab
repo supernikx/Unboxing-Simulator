@@ -263,7 +263,7 @@ MonoBehaviour:
   handObject: {fileID: 895138338742844100}
   maxZDistance: 0.5
   maxXDistance: 0.5
-  maxHeight: 0.1
+  maxHeight: 0.2
   movementSensibility: 0.01
   rotationKey: 324
   maxXRotation: 20
